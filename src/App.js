@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/Oksihup/weather-r-project"
+            href="https://euphonious-sprite-10a3b4.netlify.app/"
             target="blank"
             rel="noopener noreferrer"
           >
