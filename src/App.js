@@ -8,16 +8,20 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Kyiv" />
         <footer>
-          This project was coded by {""}
-          <a href="" target="blank" rel="noopener noreferrer">
-            Oksana Zuravska
-          </a>{" "}
-          and is {""}
-          <a href="" target="blank" rel="noopener noreferrer">
+          This project was coded by Oksana Zuravska and is {""}
+          <a
+            href="https://github.com/Oksihup/weather-r-project"
+            target="blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="" target="blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/Oksihup/weather-r-project"
+            target="blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
